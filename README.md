@@ -1,5 +1,4 @@
-|logo(https://github.com/saadkhan024/saadkhan024/blob/main/Image_link.gif)
-|[logo](https://github.com/saadkhan024/saadkhan024/blob/main/Untitled%20design%20(3).gif)
+!logo(https://github.com/saadkhan024/saadkhan024/blob/main/Image_link.gif)
 <h1 align="center">Hi 👋, I'm Saad Khan</h1>
 <h3 align="center">Linux and Cloud Engineer</h3>
 
